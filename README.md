@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5d6ceb,100:aa55ff&height=200&section=header&text=Welcome%20to%20KnoX's%20GitHub!&fontSize=35&fontAlignY=35&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5d6ceb,100:aa55ff&height=200&section=header&text=Welcome%20to%20Killua's%20GitHub!&fontSize=35&fontAlignY=35&fontColor=FFFFFF" />
 
-<h2>💻 Front-End Developer | KnoX (Mehmet)</h2>
+<h2>💻 Front-End Developer | Killua (Mehmet)</h2>
 
 <p>
 🌍 Based in Turkey &nbsp;|&nbsp; 🎨 UI/UX & Web Enthusiast  
